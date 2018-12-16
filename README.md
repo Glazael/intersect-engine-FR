@@ -3,7 +3,7 @@
 
 Traduction Française du moteur de mmorpg Intersect : https://www.freemmorpgmaker.com/
 
-- Une bonne partie de l'éditeur est traduit, environ 70%. Une fois les 100% obtenu, le plus dur sera de corrigé le "fran-glais" mais également certaine phrase a raccourcir, car trop longue pour l'interface ! Et n'oublions pas l'orthographe et la grammaire qui ironiquement n'ai pas mon fort ;)
+- Une bonne partie de l'éditeur est traduit, environ 70%. Une fois les 100% obtenu, le plus dur sera de corrigé le "fran-glais" mais également certaine phrase a raccourcir, car trop longue pour l'interface ! Et n'oublions pas l'orthographe et la grammaire qui ironiquement n'est pas mon fort ;)
 
 - Un tout petit pourcentage de l'interface client est traduit.
 
