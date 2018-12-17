@@ -626,126 +626,126 @@
     "true": "Vrais"
   },
   "EventEditor": {
-    "addcommand": "Add Commands",
+    "addcommand": "Ajouter des commandes",
     "animation": "Animation",
-    "cancel": "Cancel",
-    "clearpage": "Clear Page",
-    "command": "/Command: /",
-    "commandlist": "Commands:",
+    "cancel": "Annuler",
+    "clearpage": "Nettoyer la page",
+    "command": "/Commande: /",
+    "commandlist": "Commandes:",
     "commontriggers": {
-      "0": "None",
-      "1": "Login",
-      "2": "Level Up",
-      "3": "On Respawn",
-      "4": "/Command",
-      "5": "Autorun"
+      "0": "Aucun",
+      "1": "S'identifier",
+      "2": "Niveau supérieur",
+      "3": "Au Respawn",
+      "4": "/Commande",
+      "5": "Lancement automatique"
     },
     "conditions": "Conditions",
-    "copypage": "Copy Page",
-    "deletecommand": "Delete",
-    "deletepage": "Delete Page",
-    "directionfix": "Dir Fix",
-    "disableinspector": "Disable Inspector",
-    "editcommand": "Edit",
-    "editconditions": "Spawn/Execution Conditions",
-    "entityoptions": "Entity Options",
-    "eventpreview": "Preview",
+    "copypage": "Copier la page",
+    "deletecommand": "Supprimer",
+    "deletepage": "Supprimer la page",
+    "directionfix": "Dirrection fixe",
+    "disableinspector": "Désactiver l'inspecteur",
+    "editcommand": "Modifier",
+    "editconditions": "Spawn/Conditions d'exécution",
+    "entityoptions": "Options d'entité",
+    "eventpreview": "Aperçu",
     "extras": "Extras:",
-    "face": "Face:",
+    "face": "Visage:",
     "frequency": "Freq:",
     "frequencies": {
-      "0": "Not Very Often",
-      "1": "Not Often",
+      "0": "Pas très souvent",
+      "1": "Pas souvent",
       "2": "Normal",
-      "3": "Often",
-      "4": "Very Often"
+      "3": "Souvent",
+      "4": "Très souvent"
     },
-    "general": "General",
-    "global": "Global Event",
-    "hidename": "Hide Name",
-    "insertcommand": "Insert",
-    "inspector": "Entity Inspector Options",
-    "inspectordesc": "Inspector Description:",
-    "interactionfreeze": "Interaction Freeze",
-    "layer": "Layer:",
+    "general": "Genéral",
+    "global": "Événement global",
+    "hidename": "Masquer le nom",
+    "insertcommand": "Insérer",
+    "inspector": "Options de l'inspecteur d'entité",
+    "inspectordesc": "Description de l'inspecteur :",
+    "interactionfreeze": "Gel d'interaction",
+    "layer": "Calque :",
     "layers": {
-      "0": "Below Player",
-      "1": "Same as Player",
-      "2": "Above Player"
+      "0": "Sous le joueur",
+      "1": "Au niveau du joueur",
+      "2": "Au-dessus du joueur"
     },
-    "movement": "Movement",
-    "movementtype": "Type:",
+    "movement": "Mouvement",
+    "movementtype": "Type :",
     "movementtypes": {
-      "0": "None",
-      "1": "Random",
-      "2": "Move Route"
+      "0": "Aucun",
+      "1": "Aléatoire",
+      "2": "Suivre un chemin"
     },
-    "name": "Name:",
-    "newpage": "New Page",
-    "pageoptions": "Page Options",
-    "passable": "Passable",
-    "pastepage": "Paste Page",
-    "projectile": "Projectile:",
-    "save": "Save",
-    "savecaption": "Save Event?",
-    "savedialogue": "Do you want to save changes to this event?",
-    "setroute": "Set Route...",
-    "speed": "Speed:",
+    "name": "Nom :",
+    "newpage": "Nouvelle page",
+    "pageoptions": "Options de la page",
+    "passable": "Praticable",
+    "pastepage": "Coller la page",
+    "projectile": "Projectile :",
+    "save": "Enregistrer",
+    "savecaption": "Enregistrer l'évènement ?",
+    "savedialogue": "Voulez-vous enregistrer les modifications apportées à cet événement ?",
+    "setroute": "Définir le chemin",
+    "speed": "Vitesse :",
     "speeds": {
-      "0": "Slowest",
-      "1": "Slower",
+      "0": "Très lent",
+      "1": "Lent",
       "2": "Normal",
-      "3": "Faster",
-      "4": "Fastest"
+      "3": "Rapide",
+      "4": "Très rapide"
     },
-    "title": "Event Editor - {00}",
-    "trigger": "Trigger",
+    "title": "Éditeur d'événement - {00}",
+    "trigger": "Déclencheur",
     "triggers": {
-      "0": "Action Button",
-      "1": "Player Touch",
-      "2": "Autorun"
+      "0": "Bouton d'action",
+      "1": "Au contact du joueur",
+      "2": "Lancement automatique"
     },
-    "walkinganim": "Walking Anim"
+    "walkinganim": "Marche à pied"
   },
   "EventEndQuest": {
-    "cancel": "Cancel",
-    "label": "Quest:",
-    "okay": "Ok",
-    "skipcompletion": "Do not run completion event?",
-    "title": "End Quest"
+    "cancel": "Annuler",
+    "label": "Quête :",
+    "okay": "Oui",
+    "skipcompletion": "DNe pas exécuter l'événement d'achèvement ?",
+    "title": "Fin de quête"
   },
   "EventGiveExperience": {
-    "cancel": "Cancel",
-    "label": "Give Experience:",
-    "okay": "Ok",
-    "title": "Give Experience"
+    "cancel": "Annuler",
+    "label": "Donner de l'expérience :",
+    "okay": "Oui",
+    "title": "Donner de l'expérience"
   },
   "EventGotoLabel": {
-    "cancel": "Cancel",
-    "label": "Label:",
-    "okay": "Ok",
-    "title": "Go To Label"
+    "cancel": "Annuler",
+    "label": "Etiquette :",
+    "okay": "Oui",
+    "title": "Aller à l'étiquette"
   },
   "EventGraphic": {
-    "cancel": "Cancel",
-    "graphic": "Graphic:",
-    "graphictype0": "None",
+    "cancel": "Annuler",
+    "graphic": "Image:",
+    "graphictype0": "Aucune",
     "graphictype1": "Sprite",
     "graphictype2": "Tileset",
-    "okay": "Ok",
-    "preview": "Graphic Preview",
-    "title": "Graphic Selector",
-    "type": "Graphic Type:"
+    "okay": "Oui",
+    "preview": "Aperçu de l'image",
+    "title": "Sélection de l'image :",
+    "type": "Type d'image :"
   },
   "EventLabel": {
-    "cancel": "Cancel",
-    "label": "Label:",
-    "okay": "Ok",
-    "title": "Label"
+    "cancel": "Annuler",
+    "label": "Etiquette:",
+    "okay": "Oui",
+    "title": "Etiquette"
   },
   "EventMoveRoute": {
-    "cancel": "Cancel",
-    "command": "Commands",
+    "cancel": "Annuler",
+    "command": "Commandes",
     "commands": {
       "directionfixoff": "Direction Fix: Off",
       "directionfixon": "Direction Fix: On",
@@ -800,29 +800,29 @@
       "walkthroughon": "Walkthrough: On"
     },
     "ignoreblocked": "Ignore if Blocked",
-    "okay": "Ok",
+    "okay": "Oui",
     "player": "Player",
     "repeatroute": "Repeat Route",
     "thisevent": "[THIS EVENT]",
     "title": "Move Route"
   },
   "EventOpenCrafting": {
-    "cancel": "Cancel",
+    "cancel": "Annuler",
     "label": "Table:",
-    "okay": "Ok",
+    "okay": "Oui",
     "title": "Open Crafting"
   },
   "EventOpenShop": {
-    "cancel": "Cancel",
+    "cancel": "Annuler",
     "label": "Shop:",
-    "okay": "Ok",
+    "okay": "Oui",
     "title": "Open Shop"
   },
   "EventPlayAnimation": {
     "animation": "Animation:",
-    "cancel": "Cancel",
+    "cancel": "Annuler",
     "entity": "Entity:",
-    "okay": "Ok",
+    "okay": "Oui",
     "player": "Player",
     "relativelocation": "Relative Location:",
     "rotaterelative": "Rotate Relative to Direction",
@@ -834,22 +834,22 @@
     "title": "Play Animation"
   },
   "EventPlayBgm": {
-    "cancel": "Cancel",
+    "cancel": "Annuler",
     "label": "BGM:",
-    "okay": "Ok",
+    "okay": "Oui",
     "title": "Play BGM"
   },
   "EventPlayBgs": {
-    "cancel": "Cancel",
+    "cancel": "Annuler",
     "label": "Sound:",
-    "okay": "Ok",
+    "okay": "Oui",
     "title": "Play BGS"
   },
   "EventSelfSwitch": {
-    "cancel": "Cancel",
+    "cancel": "Annuler",
     "false": "False",
     "label": "Set Self Switch:",
-    "okay": "Ok",
+    "okay": "Oui",
     "selfswitches": {
       "0": "A",
       "1": "B",
@@ -863,21 +863,21 @@
     "access0": "Regular User",
     "access1": "In-Game Moderator",
     "access2": "Owner/Designer (Allows editor access)",
-    "cancel": "Cancel",
+    "cancel": "Annuler",
     "label": "Access:",
-    "okay": "Ok",
+    "okay": "Oui",
     "title": "Set Access"
   },
   "EventSetAnimation": {
-    "cancel": "Cancel",
+    "cancel": "Annuler",
     "label": "Animation:",
-    "okay": "Ok",
+    "okay": "Oui",
     "title": "Set Animation"
   },
   "EventSetClass": {
-    "cancel": "Cancel",
+    "cancel": "Annuler",
     "label": "Class:",
-    "okay": "Ok",
+    "okay": "Oui",
     "title": "Set Class"
   },
   "EventSetSwitch": {
@@ -1003,7 +1003,7 @@
     "bonuses": "Stat Bonuses",
     "bonusrange": "Stat Bonus Range (+-):",
     "bound": "Bound?",
-    "cancel": "Cancel",
+    "cancel": "Annuler",
     "consumeablepanel": "Consumable",
     "consumeamount": "Amount:",
     "cooldown": "Cooldown (ms):",
